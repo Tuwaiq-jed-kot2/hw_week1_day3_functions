@@ -1,6 +1,6 @@
 fun main() {
 
-    println(maximum(10,14,12))
+    println(maximum(10,140,12))
 
 
 }

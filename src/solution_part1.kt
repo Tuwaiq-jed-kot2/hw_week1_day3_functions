@@ -1,6 +1,6 @@
 fun main(){
 
-val num1:Int=1000
+val num1:Int=100
     val num2:Int=22
 println(add(num1 ,num2 ))
 }

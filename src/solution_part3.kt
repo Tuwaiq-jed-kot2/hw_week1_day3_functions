@@ -1,5 +1,5 @@
 fun main() {
-    math(100,10)
+    math(1005,10)
 }
 fun math (num1 : Int , num2 : Int ) :Int {
 

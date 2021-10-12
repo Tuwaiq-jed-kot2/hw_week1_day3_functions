@@ -1,7 +1,7 @@
 fun main() {
 val firstName:String="FAISAL"
 val middleName:String="FAHAD"
-val lastName:String="ALHEJAILI"
+val lastName:String="AL-HEJAILI"
     fulName(firstName,middleName,lastName)
     println(firstName+" "+middleName+" "+lastName)
 }
