@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376911e4-a5ff-454d-b05c-8deaf6733635" name="Changes" comment="Problem Solved :)">
-      <change afterPath="$PROJECT_DIR$/src/solution_part1_2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_part3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution_part1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_part1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solution_part2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_part2.kt" afterDir="false" />
-    </list>
+    <list default="true" id="376911e4-a5ff-454d-b05c-8deaf6733635" name="Changes" comment="thank you for the homework :&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +130,19 @@
       <option name="project" value="LOCAL" />
       <updated>1632848606481</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL؜٠٠٠٠٦" summary="thank you for the homework :&gt;">
+      <created>1634076745955</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٦" />
+      <updated>1634076745955</updated>
+    </task>
+    <task id="LOCAL؜٠٠٠٠٧" summary="thank you for the homework :&gt;">
+      <created>1634077004556</created>
+      <option name="number" value="LOCAL؜٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠٧" />
+      <updated>1634077004556</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Problem Solved :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem Solved :)" />
+    <MESSAGE value="thank you for the homework :&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="thank you for the homework :&gt;" />
   </component>
 </project>
