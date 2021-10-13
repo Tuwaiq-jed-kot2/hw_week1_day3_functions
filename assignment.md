@@ -19,6 +19,7 @@ Create a function called `add()` that takes two input numbers and returns the su
 fun main() {
    println(add(10,12))
 }
+
 Output: 22
 ```
 ### Question 2
