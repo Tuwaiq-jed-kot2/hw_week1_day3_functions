@@ -2,10 +2,10 @@ fun main (){
     results()
 }
 fun results () {
-  println(add(20, 60))
-println(sup(20,60))
-    println(mult(20,60))
-    println(divi(20,60))
+  println(add(2, 3))
+println(sup(2,3))
+    println(mult(2,3))
+    println(divi(2,3))
 }
 
 fun add(num1:Int,num2:Int):Int {
