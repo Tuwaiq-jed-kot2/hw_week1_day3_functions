@@ -1,13 +1,8 @@
 fun main(){
-   findMax()
+    val maximum : (Int, Int, Int) -> Int = {
+            num1:Int, num2:Int, num3:Int ->
+        maxOf(num1,num2,num3)
+    }
+    println(maximum(4,10,33))
 }
 
-fun findMax(list: List<Int>): Int? {
-   return list.max()
-}
-
-
-         val list = listOf(10, 12, 14)
-
-         val max = findMax(list)
-         println(max)
